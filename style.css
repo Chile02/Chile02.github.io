@@ -302,7 +302,7 @@ span{
 }
 
 .contact{
-    background-color: var(--second-bg-color);
+    background-color: var(--bg-color);
 }
 .contact h2{
     margin-bottom: 3rem;
